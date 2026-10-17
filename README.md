@@ -1,14 +1,20 @@
 <div align="center">
 
-  <!-- BRAND HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=27231B&height=220&section=header&text=JEPOY.DEV&fontSize=48&fontAlignY=36&fontColor=D5FA00&desc=ITSM%20Leader%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20%26%20AI&descAlignY=58&descAlign=50&descColor=F6F1E6&animation=fadeIn" width="100%" alt="Jepoy.dev Header Banner" />
+  <!-- SELF-HOSTED BULLETPROOF BRAND BANNER -->
+  <a href="https://jepoy.dev">
+    <img src="./header.svg" width="100%" alt="Jepoy.dev Header" />
+  </a>
+
+  <br><br>
 
   <!-- JETBRAINS MONO TYPING EFFECT -->
   <a href="https://jepoy.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=D5FA00&center=true&vCenter=true&width=650&height=50&lines=ITSM+Practitioner+%26+Leader+(v3+%E2%80%A2+v4+%E2%80%A2+v5);Microsoft+Certified+Professional+%7C+Cloud+%26+Infrastructure;Building+reliable+AI+agents%2C+RPA%2C+and+data+systems;Build+it.+Ship+it.+%7C+Learn.+Build.+Launch." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=D5FA00&center=true&vCenter=true&width=650&height=45&lines=ITSM+Practitioner+%26+Leader+(v3+%E2%80%A2+v4+%E2%80%A2+v5);Microsoft+Certified+Professional+%7C+Cloud+%26+Infrastructure;Building+reliable+AI+agents%2C+RPA%2C+and+data+systems;Build+it.+Ship+it.+%7C+Learn.+Build.+Launch." alt="Typing SVG" />
   </a>
 
-  <!-- ENTERPRISE & BRAND BADGES -->
+  <br>
+
+  <!-- BADGES -->
   <p align="center">
     <a href="https://jepoy.dev" target="_blank">
       <img src="https://img.shields.io/badge/ITSM-V3%20%7C%20V4%20%7C%20V5%20FRAMEWORKS-D5FA00?style=for-the-badge&labelColor=27231B&color=D5FA00" alt="ITSM Certified" />
@@ -76,9 +82,9 @@
 
 | Pillar | Focus | What Gets Delivered |
 | :--- | :--- | :--- |
-| **Build** | Architecture & Automation | Enterprise integrations, reliable backend jobs, and automated task pipelines. |
-| **Learn** | Systems Engineering | IT service management, practical debugging, and real-world system permissions. |
-| **Ship** | Production Readiness | Resilient deployments, containerized workloads, change verification, and error handling. |
+| **Build** | Architecture & Automation | Enterprise integrations, reliable backend jobs, and automated task pipelines.[cite: 2] |
+| **Learn** | Systems Engineering | IT service management, practical debugging, and real-world system permissions.[cite: 2] |
+| **Ship** | Production Readiness | Resilient deployments, containerized workloads, change verification, and error handling.[cite: 2] |
 
 ---
 
@@ -92,5 +98,5 @@
 <br>
 
 <div align="center">
-  <sub><code>Gumagana sa laptop mo? Good start. Ang tanong: kaya ba siyang gamitin at i-maintain ng enterprise? 🚀</code></sub>
+  <sub><code>Gumagana sa laptop mo? Good start. Ang tanong: kaya ba siyang gamitin at i-maintain ng enterprise? 🚀</code>[cite: 2]</sub>
 </div>
